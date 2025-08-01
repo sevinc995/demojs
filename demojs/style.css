@@ -13,4 +13,13 @@ body #demo img {
   border: 5px solid green;
   width: 200px;
   cursor: pointer;
+}
+
+#first {
+  padding: 50px;
+}
+#first .done {
+  color: red;
+  -webkit-text-decoration: line-through solid black 2px;
+          text-decoration: line-through solid black 2px;
 }/*# sourceMappingURL=style.css.map */
