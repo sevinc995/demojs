@@ -32,4 +32,5 @@ $(document).ready(function () {
     // Update the text content of the <h2>
     myHeading.textContent = "Hello world!";
 
+   
 });
